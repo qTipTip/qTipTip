@@ -1,4 +1,4 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=qtiptip&show_icons=true&count_private=true&theme=dracula&hide_tidtle=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=qtiptip&show_icons=true&count_private=true&theme=dracula&hide_title=true" />
 
 
 <!--
