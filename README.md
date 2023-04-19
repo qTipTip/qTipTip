@@ -1,4 +1,5 @@
-### Hi there 👋
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=qtiptip&show_icons=true&count_private=true&theme=dracula&hide_tidtle=true" />
+
 
 <!--
 **qTipTip/qTipTip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
